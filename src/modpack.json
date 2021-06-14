@@ -2597,6 +2597,21 @@
           ]
         },
         {
+          "id": "261029",
+          "file": {
+            "installer": "internal.dir:mods",
+            "artifact": "curse.maven:261029:3124866",
+            "repository": "curse"
+          },
+          "type": "mod",
+          "options": [
+            "required",
+            "client",
+            "server",
+            "included"
+          ]
+        },
+        {
           "id": "forge",
           "versions": "[1.12.2-14.23.5.2854]",
           "type": "modloader",
