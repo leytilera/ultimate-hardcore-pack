@@ -17,6 +17,21 @@
       ],
       "relations": [
         {
+          "id": "244830",
+          "file": {
+            "installer": "internal.dir:mods",
+            "artifact": "curse.maven:244830:3112419",
+            "repository": "curse"
+          },
+          "type": "mod",
+          "options": [
+            "required",
+            "client",
+            "server",
+            "included"
+          ]
+        },
+        {
           "id": "236542",
           "file": {
             "installer": "internal.dir:mods",
