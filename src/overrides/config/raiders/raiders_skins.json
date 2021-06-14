@@ -1,0 +1,128 @@
+{
+	"_exampleRaider": {
+		"weight": "True Weight System, So you can tweak which skins you want to see more.",
+		"enabled": "After you get your Twitch list, you may have broken skins because ppl have changed names. So you can disable them here.",
+		"customSkin": "Give resourcelocation of custom skin. Use raiders build in resource loading, by adding an image into assets/skins/filename.png Than set custom skin to raiders:skins/filename. You may also use any other resourceloader.",
+		"_comment": " Comment section is for you leave a comment if you disabled something to know why. or just any comment you want."
+	},
+	"ACGaming": {
+		"weight": 10,
+		"enabled": true,
+		"_comment": " "
+	},
+	"merlinmo": {
+		"weight": 10,
+		"enabled": true,
+		"_comment": " "
+	},
+	"Kanjobo": {
+		"weight": 10,
+		"enabled": true,
+		"_comment": " "
+	},
+	"Mali_das_Kueken": {
+		"weight": 10,
+		"enabled": true,
+		"_comment": " "
+	},
+	"tilera": {
+		"weight": 10,
+		"enabled": true,
+		"_comment": " "
+	},
+	"Holzstammhuhn": {
+		"weight": 10,
+		"enabled": true,
+		"_comment": " "
+	},
+	"LordMZTE": {
+		"weight": 10,
+		"enabled": true,
+		"_comment": " "
+	},
+	"Kalykto": {
+		"weight": 10,
+		"enabled": true,
+		"_comment": " "
+	},
+	"Tatterinchen": {
+		"weight": 10,
+		"enabled": true,
+		"_comment": " "
+	},
+	"Fierlord": {
+		"weight": 10,
+		"enabled": true,
+		"_comment": " "
+	},
+	"VoTryX": {
+		"weight": 10,
+		"enabled": true,
+		"_comment": " "
+	},
+	"ITbyHF": {
+		"weight": 10,
+		"enabled": true,
+		"_comment": " "
+	},
+	"Paulinjo007": {
+		"weight": 10,
+		"enabled": true,
+		"_comment": " "
+	},
+	"InlineYT": {
+		"weight": 10,
+		"enabled": true,
+		"_comment": " "
+	},
+	"Toto6LP": {
+		"weight": 10,
+		"enabled": true,
+		"_comment": " "
+	},
+	"PhoenixSky": {
+		"weight": 10,
+		"enabled": true,
+		"_comment": " "
+	},
+	"Jens10123": {
+		"weight": 10,
+		"enabled": true,
+		"_comment": " "
+	},
+	"zPenta": {
+		"weight": 10,
+		"enabled": true,
+		"_comment": " "
+	},
+	"Jogel": {
+		"weight": 10,
+		"enabled": true,
+		"_comment": " "
+	},
+	"Rsge": {
+		"weight": 10,
+		"enabled": true,
+		"_comment": " "
+	},
+	"Blizzor96": {
+		"weight": 10,
+		"enabled": true,
+		"_comment": " "
+	},
+	"Sirlanz": {
+		"weight": 10,
+		"enabled": true,
+		"_comment": " "
+	},
+	"RaizerPlayz": {
+		"weight": 10,
+		"enabled": true,
+		"_comment": " "
+	},
+	"Herobrine": {
+		"weight": 5,
+		"enabled": true,
+		"_comment": " "
+	}
+}
