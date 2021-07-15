@@ -2537,21 +2537,6 @@
           ]
         },
         {
-          "id": "74072",
-          "file": {
-            "installer": "internal.dir:mods",
-            "artifact": "curse.maven:74072:2902483",
-            "repository": "curse"
-          },
-          "type": "mod",
-          "options": [
-            "required",
-            "client",
-            "server",
-            "included"
-          ]
-        },
-        {
           "id": "243363",
           "file": {
             "installer": "internal.dir:mods",
