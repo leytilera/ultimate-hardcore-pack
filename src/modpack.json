@@ -1862,21 +1862,6 @@
           ]
         },
         {
-          "id": "299086",
-          "file": {
-            "installer": "internal.dir:mods",
-            "artifact": "curse.maven:299086:3112313",
-            "repository": "curse"
-          },
-          "type": "mod",
-          "options": [
-            "required",
-            "client",
-            "server",
-            "included"
-          ]
-        },
-        {
           "id": "225561",
           "file": {
             "installer": "internal.dir:mods",
@@ -2016,21 +2001,6 @@
           "file": {
             "installer": "internal.dir:mods",
             "artifact": "curse.maven:243298:3116493",
-            "repository": "curse"
-          },
-          "type": "mod",
-          "options": [
-            "required",
-            "client",
-            "server",
-            "included"
-          ]
-        },
-        {
-          "id": "256950",
-          "file": {
-            "installer": "internal.dir:mods",
-            "artifact": "curse.maven:256950:3257224",
             "repository": "curse"
           },
           "type": "mod",
@@ -2417,55 +2387,10 @@
           ]
         },
         {
-          "id": "282877",
-          "file": {
-            "installer": "internal.dir:mods",
-            "artifact": "curse.maven:282877:2522228",
-            "repository": "curse"
-          },
-          "type": "mod",
-          "options": [
-            "required",
-            "client",
-            "server",
-            "included"
-          ]
-        },
-        {
-          "id": "223525",
-          "file": {
-            "installer": "internal.dir:mods",
-            "artifact": "curse.maven:223525:2916129",
-            "repository": "curse"
-          },
-          "type": "mod",
-          "options": [
-            "required",
-            "client",
-            "server",
-            "included"
-          ]
-        },
-        {
           "id": "354975",
           "file": {
             "installer": "internal.dir:mods",
             "artifact": "curse.maven:354975:2843864",
-            "repository": "curse"
-          },
-          "type": "mod",
-          "options": [
-            "required",
-            "client",
-            "server",
-            "included"
-          ]
-        },
-        {
-          "id": "59751",
-          "file": {
-            "installer": "internal.dir:mods",
-            "artifact": "curse.maven:59751:2918418",
             "repository": "curse"
           },
           "type": "mod",
@@ -2601,6 +2526,36 @@
           "file": {
             "installer": "internal.dir:mods",
             "artifact": "curse.maven:300742:3006392",
+            "repository": "curse"
+          },
+          "type": "mod",
+          "options": [
+            "required",
+            "client",
+            "server",
+            "included"
+          ]
+        },
+        {
+          "id": "434344",
+          "file": {
+            "installer": "internal.dir:mods",
+            "artifact": "curse.maven:434344:3231405",
+            "repository": "curse"
+          },
+          "type": "mod",
+          "options": [
+            "required",
+            "client",
+            "server",
+            "included"
+          ]
+        },
+        {
+          "id": "299086",
+          "file": {
+            "installer": "internal.dir:mods",
+            "artifact": "curse.maven:299086:3112313",
             "repository": "curse"
           },
           "type": "mod",
