@@ -2552,6 +2552,66 @@
           ]
         },
         {
+          "id": "304881",
+          "file": {
+            "installer": "internal.dir:mods",
+            "artifact": "curse.maven:304881:2727758",
+            "repository": "curse"
+          },
+          "type": "mod",
+          "options": [
+            "required",
+            "client",
+            "server",
+            "included"
+          ]
+        },
+        {
+          "id": "284876",
+          "file": {
+            "installer": "internal.dir:mods",
+            "artifact": "curse.maven:284876:2946179",
+            "repository": "curse"
+          },
+          "type": "mod",
+          "options": [
+            "required",
+            "client",
+            "server",
+            "included"
+          ]
+        },
+        {
+          "id": "317915",
+          "file": {
+            "installer": "internal.dir:mods",
+            "artifact": "curse.maven:317915:3206298",
+            "repository": "curse"
+          },
+          "type": "mod",
+          "options": [
+            "required",
+            "client",
+            "server",
+            "included"
+          ]
+        },
+        {
+          "id": "300742",
+          "file": {
+            "installer": "internal.dir:mods",
+            "artifact": "curse.maven:300742:3006392",
+            "repository": "curse"
+          },
+          "type": "mod",
+          "options": [
+            "required",
+            "client",
+            "server",
+            "included"
+          ]
+        },
+        {
           "id": "forge",
           "versions": "[1.12.2-14.23.5.2855]",
           "type": "modloader",
