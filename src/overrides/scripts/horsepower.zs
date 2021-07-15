@@ -205,7 +205,6 @@ ChoppingBlock.add(<tfc:wood/log/willow:0>, <tfc:wood/lumber/willow> * 10, 4, fal
 recipes.addShaped("horsepower_press", <horsepower:press>, [[<minecraft:lead>, <ore:stickWood>, <minecraft:lead>], [<ore:plankWood>, <minecraft:hopper>, <ore:plankWood>], [<ore:plankWood>, <tfc:wooden_bucket>.noReturn(), <ore:plankWood>]]);
 
 Press.add(<minecraft:string> * 22, <tfc:animal/product/silk_cloth>);
-Press.add(<ore:logWoodTannin>, <liquid:creosote> * 125);
 Press.add(<tfc:animal/product/wool_yarn> * 14, <tfc:animal/product/wool_cloth>);
 Press.add(<tfc:crop/product/jute_fiber> * 10, <tfc:crop/product/burlap_cloth>);
 Press.add(<tfc:food/olive:*>, <liquid:olive_oil_water> * 250);
