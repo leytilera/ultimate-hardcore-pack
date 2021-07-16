@@ -1,6 +1,6 @@
 #modloaded horsepower
 
-// Author : AnodeCathode & ACGaming
+// Author : AnodeCathode, ACGaming
 // Mod required : Horse Power
 // Scripts required : -
 
@@ -208,3 +208,5 @@ Press.add(<minecraft:string> * 22, <tfc:animal/product/silk_cloth>);
 Press.add(<tfc:animal/product/wool_yarn> * 14, <tfc:animal/product/wool_cloth>);
 Press.add(<tfc:crop/product/jute_fiber> * 10, <tfc:crop/product/burlap_cloth>);
 Press.add(<tfc:food/olive:*>, <liquid:olive_oil_water> * 250);
+
+print("Initialized 'horsepower.zs'");

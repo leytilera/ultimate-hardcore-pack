@@ -1,6 +1,6 @@
 #modloaded chiselsandbits
 
-// Author : AnodeCathode & ACGaming
+// Author : AnodeCathode, ACGaming
 // Mod required : Chisels & Bits
 // Scripts required : -
 
@@ -40,3 +40,5 @@ cbground.hardness = 40.0;
 val cbsand = <chiselsandbits:chiseled_sand>.asBlock().definition;
 //sets chiseled sand hardness
 cbsand.hardness = 40.0;
+
+print("Initialized 'chiselsandbits.zs'");

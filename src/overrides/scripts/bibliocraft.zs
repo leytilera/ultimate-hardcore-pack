@@ -1,20 +1,17 @@
-#author KittenRaee
-#author Stuart-Cox
-#modloaded tfc
-#modloaded bibliocraft
+#modloaded tfc bibliocraft
 
-// Create recipes for Terrafirmacraft woods.
-// Mod required : Bibliocraft
-// Scripts required : ~
+// Author: KittenRaee, Stuart-Cox
+// Mod required : BiblioCraft
+// Scripts required : -
 
-import crafttweaker.item.IItemStack;
-import crafttweaker.item.IIngredient;
 import crafttweaker.data.IData;
+import crafttweaker.item.IIngredient;
+import crafttweaker.item.IItemStack;
 import mods.jei.JEI;
-import mods.terrafirmacraft.ItemRegistry;
 import mods.terrafirmacraft.Anvil;
 import mods.terrafirmacraft.ClayKnapping;
 import mods.terrafirmacraft.Heating;
+import mods.terrafirmacraft.ItemRegistry;
 
 // Arrays
     var bibliocraft_remove_recipes = [
@@ -1205,4 +1202,6 @@ import mods.terrafirmacraft.Heating;
         <bibliocraft:dinnerplate>,
         1500,
         2000
-    );
+    );	
+
+print("Initialized 'bibliocraft.zs'");

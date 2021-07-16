@@ -16,3 +16,5 @@ recipes.addShaped(<waterflasks:leather_flask>, [[<waterflasks:broken_leather_fla
 recipes.addShaped(<waterflasks:leather_flask>, [[<waterflasks:leather_flask:*>, <waterflasks:bladder>]]);
 recipes.addShaped(<waterflasks:leather_flask>, [[null, <ore:string>, null], [<waterflasks:leather_side>, <waterflasks:bladder>, <waterflasks:leather_side>], [null, <ore:string>, <ore:knife>.transformDamage()]]);
 recipes.addShaped(<waterflasks:leather_flask>, [[null, <waterflasks:leather_side>, null], [<ore:string>, <waterflasks:bladder>, <tfc:animal/product/wool_yarn> | <ore:string>], [null, <waterflasks:leather_side>, <ore:knife>.transformDamage()]]);
+
+print("Initialized 'waterflasks.zs'");
